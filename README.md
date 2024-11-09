@@ -33,7 +33,7 @@ The **Gateway** is the communication point between our clients and our services.
 1. **Clone the repository**  
    Clone the repository to your local machine using the following command:
    ```bash
-   git clone <REPOSITORY_URL>
+   git clone git@github.com:Nest-Microservices-Fernando-Ituarte/client-gateway.git
    ```
 
 2. **Install dependencies**  
